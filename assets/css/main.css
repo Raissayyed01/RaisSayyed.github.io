@@ -3236,33 +3236,34 @@ input, select, textarea {
 
 			}
 
-		.wrapper.alt {
-			background-color: #261c3e;
-		}
+.wrapper.alt {
+	background-color: #111827; /* Charcoal Black */
+}
 
-		.wrapper.style1 {
-			background-color: #5e42a6;
-		}
+.wrapper.style1 {
+	background-color: #1F2937; /* Dark Gray */
+}
 
-		.wrapper.style1-alt {
-			background-color: #493382;
-		}
+.wrapper.style1-alt {
+	background-color: #0F172A; /* Deep Navy */
+}
 
-		.wrapper.style2 {
-			background-color: #E5E7EB;
-		}
+.wrapper.style2 {
+	background-color: #E5E7EB; /* Light Gray (keeps contrast) */
+}
 
-		.wrapper.style2-alt {
-			background-color: #3e4094;
-		}
+.wrapper.style2-alt {
+	background-color: #374151; /* Slate Gray */
+}
 
-		.wrapper.style3 {
-			background-color: #E5E7EB;
-		}
+.wrapper.style3 {
+	background-color: #E5E7EB; /* Light Gray */
+}
 
-		.wrapper.style3-alt {
-			background-color: #953d75;
-		}
+.wrapper.style3-alt {
+	background-color: #2563EB; /* Royal Blue (formal accent) */
+}
+
 
 		.wrapper.fullscreen {
 			display: -moz-flex;
@@ -3908,3 +3909,4 @@ input, select, textarea {
 			}
 
 		}
+
