@@ -4,7 +4,6 @@
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 */
 
 html, body, div, span, applet, object,
@@ -3236,15 +3235,33 @@ input, select, textarea {
 
 			}
 
-.wrapper.alt { background-color: #0B3D2E; }   /* Dark Green */
-.wrapper.style1 { background-color: #145A32; }
-.wrapper.style1-alt { background-color: #0D2620; }
-.wrapper.style2 { background-color: #CD7F32; } /* Bronze */
-.wrapper.style2-alt { background-color: #8B5E3C; }
-.wrapper.style3 { background-color: #0B3D2E; }
-.wrapper.style3-alt { background-color: #06261C; }
+		.wrapper.alt {
+			background-color: #261c3e;
+		}
 
+		.wrapper.style1 {
+			background-color: #5e42a6;
+		}
 
+		.wrapper.style1-alt {
+			background-color: #493382;
+		}
+
+		.wrapper.style2 {
+			background-color: #5052b5;
+		}
+
+		.wrapper.style2-alt {
+			background-color: #3e4094;
+		}
+
+		.wrapper.style3 {
+			background-color: #b74e91;
+		}
+
+		.wrapper.style3-alt {
+			background-color: #953d75;
+		}
 
 		.wrapper.fullscreen {
 			display: -moz-flex;
@@ -3890,7 +3907,3 @@ input, select, textarea {
 			}
 
 		}
-
-
-
-
